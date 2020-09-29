@@ -1,0 +1,3 @@
+[submodule "ydm-climate"]
+	path = ydm-climate
+	url = https://github.com/longavailable/ydm-climate.git
