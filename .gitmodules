@@ -7,3 +7,6 @@
 [submodule "ydm-lucc"]
 	path = ydm-lucc
 	url = https://github.com/longavailable/ydm-lucc.git
+[submodule "ydm-economy"]
+	path = ydm-economy
+	url = https://github.com/longavailable/ydm-economy.git
