@@ -10,3 +10,6 @@
 [submodule "ydm-economy"]
 	path = ydm-economy
 	url = https://github.com/longavailable/ydm-economy.git
+[submodule "ydm-landuse"]
+	path = ydm-landuse
+	url = https://github.com/longavailable/ydm-landuse.git
