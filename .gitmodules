@@ -13,3 +13,6 @@
 [submodule "ydm-landuse"]
 	path = ydm-landuse
 	url = https://github.com/longavailable/ydm-landuse.git
+[submodule "ydm-flood"]
+	path = ydm-flood
+	url = https://github.com/longavailable/ydm-flood
